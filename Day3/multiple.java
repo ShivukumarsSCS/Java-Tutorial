@@ -1,8 +1,8 @@
-class Airthematic_operation2{
+class Multiple{
     public static void main(String[] args){
         int a=10;
         int b=40;
-        int sum=a*b;
-        System.out.println(sum);
+        int multiple=a*b;
+        System.out.println(multiple);
     }
 }
