@@ -1,4 +1,4 @@
-class Comparission_operation6{
+class Comparision1{
     public static void main(String[] args){
         int a=9;
         int b=9;
