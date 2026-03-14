@@ -1,4 +1,4 @@
-class Airthematic_operation2{
+class Airthematic_operation{
     public static void main(String[] args){
         int a=20;
         int b=40;
