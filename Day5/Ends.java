@@ -1,7 +1,7 @@
 class Ends{
     public static void main(String[] args){
         String name = "shivakumar";
-        boolean s = name.endsWith("r");
-        System.out.println(s);
+        boolean e = name.endsWith("r");
+        System.out.println(e);
     }
 }
